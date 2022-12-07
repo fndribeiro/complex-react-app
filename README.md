@@ -4,6 +4,10 @@ Project built following the course https://www.udemy.com/course/react-for-the-re
 
 ## Features:
 
+This project has CRUD operations for posts created by users.
+
+It also has a login feature.
+
 - JSX
 - Props to make component flexible
 - UseEffect
